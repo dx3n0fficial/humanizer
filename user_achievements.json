@@ -1,0 +1,237 @@
+[
+  {
+    "id": "first_humanize",
+    "name": "First Transformation",
+    "description": "Humanize your first AI-generated text",
+    "category": "beginner",
+    "icon": "\ud83d\ude80",
+    "points": 10,
+    "unlocked": true,
+    "date_unlocked": "2025-04-02T08:19:02.235001",
+    "progress": 1,
+    "progress_max": 1
+  },
+  {
+    "id": "five_humanizations",
+    "name": "Getting Started",
+    "description": "Humanize 5 different texts",
+    "category": "beginner",
+    "icon": "\ud83d\udcdd",
+    "points": 20,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 1,
+    "progress_max": 5
+  },
+  {
+    "id": "try_all_levels",
+    "name": "Level Explorer",
+    "description": "Try all 5 humanization levels",
+    "category": "beginner",
+    "icon": "\ud83d\udd0d",
+    "points": 30,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 1,
+    "progress_max": 5,
+    "progress_detail": {
+      "levels_used": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "save_text",
+    "name": "Collector",
+    "description": "Save your first humanized text",
+    "category": "beginner",
+    "icon": "\ud83d\udcbe",
+    "points": 15,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 0,
+    "progress_max": 1
+  },
+  {
+    "id": "scholarship",
+    "name": "Academic Writer",
+    "description": "Humanize 3 texts using Level 5 (Scholarly)",
+    "category": "intermediate",
+    "icon": "\ud83c\udf93",
+    "points": 30,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 0,
+    "progress_max": 3
+  },
+  {
+    "id": "word_master",
+    "name": "Word Master",
+    "description": "Humanize over 5,000 words in total",
+    "category": "intermediate",
+    "icon": "\ud83d\udcda",
+    "points": 40,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 99,
+    "progress_max": 5000
+  },
+  {
+    "id": "power_user",
+    "name": "Power User",
+    "description": "Save 10 different texts",
+    "category": "intermediate",
+    "icon": "\u26a1",
+    "points": 35,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 0,
+    "progress_max": 10
+  },
+  {
+    "id": "variety",
+    "name": "Versatile Writer",
+    "description": "Use each humanization level at least 3 times",
+    "category": "advanced",
+    "icon": "\ud83c\udf08",
+    "points": 50,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 1,
+    "progress_max": 15,
+    "progress_detail": {
+      "level_count": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+      }
+    }
+  },
+  {
+    "id": "consistency",
+    "name": "Consistent Creator",
+    "description": "Use the humanizer on 5 different days",
+    "category": "advanced",
+    "icon": "\ud83d\udcc6",
+    "points": 45,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 1,
+    "progress_max": 5,
+    "progress_detail": {
+      "days_used": [
+        "2025-04-02"
+      ]
+    }
+  },
+  {
+    "id": "upload_text",
+    "name": "File Master",
+    "description": "Upload a text file for humanization",
+    "category": "beginner",
+    "icon": "\ud83d\udcc4",
+    "points": 15,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 0,
+    "progress_max": 1
+  },
+  {
+    "id": "essay_complete",
+    "name": "Essay Completer",
+    "description": "Humanize a text with more than 1,000 words",
+    "category": "intermediate",
+    "icon": "\ud83d\udcf0",
+    "points": 35,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 0,
+    "progress_max": 1
+  },
+  {
+    "id": "detector_buster",
+    "name": "Detector Buster",
+    "description": "Humanize 10 texts with Level 4 or higher",
+    "category": "advanced",
+    "icon": "\ud83d\udee1\ufe0f",
+    "points": 55,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 1,
+    "progress_max": 10
+  },
+  {
+    "id": "text_search",
+    "name": "Archivist",
+    "description": "Use the search function to find saved texts",
+    "category": "beginner",
+    "icon": "\ud83d\udd0e",
+    "points": 20,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 0,
+    "progress_max": 1
+  },
+  {
+    "id": "word_champion",
+    "name": "Word Champion",
+    "description": "Humanize over 25,000 words in total",
+    "category": "expert",
+    "icon": "\ud83c\udf1f",
+    "points": 100,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 99,
+    "progress_max": 25000
+  },
+  {
+    "id": "transformation_master",
+    "name": "Transformation Master",
+    "description": "Complete 50 humanizations",
+    "category": "expert",
+    "icon": "\ud83d\udc51",
+    "points": 150,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 1,
+    "progress_max": 50
+  },
+  {
+    "id": "night_owl",
+    "name": "Night Owl",
+    "description": "Humanize a text between midnight and 5 AM",
+    "category": "secret",
+    "icon": "\ud83e\udd89",
+    "points": 25,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 0,
+    "progress_max": 1
+  },
+  {
+    "id": "easter_egg",
+    "name": "Easter Egg Hunter",
+    "description": "Discover a hidden feature of the humanizer",
+    "category": "secret",
+    "icon": "\ud83e\udd5a",
+    "points": 30,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 0,
+    "progress_max": 1
+  },
+  {
+    "id": "perfect_score",
+    "name": "Perfect Score",
+    "description": "Earn all other achievements",
+    "category": "expert",
+    "icon": "\ud83d\udcaf",
+    "points": 200,
+    "unlocked": false,
+    "date_unlocked": null,
+    "progress": 1,
+    "progress_max": 17
+  }
+]
